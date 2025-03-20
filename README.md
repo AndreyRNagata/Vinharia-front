@@ -2,8 +2,6 @@
 
 Este é um projeto de website para o caso fictício da Vinheira Agnello, composto por cinco seções diferentes: Home, Sobre, Fotos, Contato e Como Chegar.
 
-![Print da tela home](./imgs/printtela.png)
-
 ## Estrutura do Projeto
 
 O projeto está estruturado da seguinte forma:
